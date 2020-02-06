@@ -53,6 +53,8 @@ The levels are separated by one blank line.
 - UniquePtr:  In the program we have a vector with this type of pointers that hold the two kinds of guards we have and all rest staticObjects (Walls, Boxes, door..) And for Bombs as well, separated uniquePtr.
 - We are using double dispatch to handle collision within all of the GameObjects
 
+### Installation
+I am working on a setup.exe but but to run this you need to install SFML on your computer.
 
 
 
