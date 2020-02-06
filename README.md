@@ -4,7 +4,8 @@ The goal of the game is to gain as many points possible and move through the lev
 The player can select a level through the menu using the mouse or the keyboard.
 The player moves around using the arrow keys and lays bombs with the B key. To restart the current level the user can press the R key, and in order to quit the game the player can press the Q key.
 The player is limited by time, and number of lives.
-##Design
+
+## Design
 ### The Classes created for this program:
 *	GameObject – Holds the very basic data that any object in the game would need, that’s an abstract class.
 *	StaticObject – Inherits from GameObject, holds the next level of functionality for the static objects of the game, that’s an abstract class.
