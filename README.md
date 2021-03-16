@@ -55,7 +55,7 @@ The levels are separated by one blank line.
 - We are using double dispatch to handle collision within all of the GameObjects
 
 ### Installation
-I am working on a setup.exe
+I am working on a setup.exe <br>
 This project was written using C++ and SFML.
 
 
