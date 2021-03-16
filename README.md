@@ -5,6 +5,8 @@ The player can select a level through the menu using the mouse or the keyboard.
 The player moves around using the arrow keys and lays bombs with the B key. To restart the current level the user can press the R key, and in order to quit the game the player can press the Q key.
 The player is limited by time, and number of lives.
 
+![alt text](https://github.com/shivibarlev/Bomberman/blob/master/Bomberman/Bomberman/images/screens/startPage.png?raw=true)
+
 ## Design
 ### The Classes created for this program:
 *	GameObject – Holds the very basic data that any object in the game would need, that’s an abstract class.
