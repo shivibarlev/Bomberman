@@ -51,6 +51,8 @@ The first line of each level contains the width, height, number of bombs and tim
 After that the level in this format: #-wall, @-box, !-guard, /-player, +-gift, D-door.
 The levels are separated by one blank line.
 
+#### Will add the level designer someday soon
+
 ### Data structures
 - Vectors: These data structures hold all of the data we use- maps, Guards, Bombs and gifts.
 - UniquePtr:  In the program we have a vector with this type of pointers that hold the two kinds of guards we have and all rest staticObjects (Walls, Boxes, door..) And for Bombs as well, separated uniquePtr.
